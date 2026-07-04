@@ -262,7 +262,7 @@ async def cmd_start(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
         return
 
     await update.message.reply_text(
-        "Напиши сообщение сюда, и оно попадет владельцу в отдельную тему."
+        "Напиши сообщение сюда, скоро вам ответят"
     )
 
 
